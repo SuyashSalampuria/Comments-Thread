@@ -35,7 +35,7 @@ source .venv/bin/activate
 pip install -r requirement.txt
 ```
 
-5.Create a MySql database named threads. Navigate to ```/threads``` and create a file .env and store the following credentials inside it
+5.Create a MySql database named threads. Navigate to ```/comments``` and create a file .env and store the following credentials inside it
 
 ```
 SECRET_KEY=your-secret-key
